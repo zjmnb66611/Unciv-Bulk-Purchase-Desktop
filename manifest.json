@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "gameVersion": "4.22.6-patch1",
+  "gameSha256": "53281110c1f2209ee7b393813e07fcf8d42a1e031d11c0505f5856627a1a0cf4",
+  "agentSha256": "5564d08da477f5cc51531f75d255f2689aca12621e52510603b93e0e68fadb28",
+  "targetClassSha256": "27eff70cdd77e033beac3af7559e6a797f7151f3c43c40d0593effdcbf6c8c0a",
+  "androidSupported": false
+}
